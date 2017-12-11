@@ -1,0 +1,60 @@
+/*
+*  Name :   styles.css
+*  Location : /imports/UI/CSS
+*  Author: Emanuele Crespan
+*  Creation Data: 2017-06-27
+*  Description: file styles
+* 
+*/
+
+
+
+
+.hidden{
+    display : none;
+}
+
+.bubble-menu-button{
+	width: 50%;
+	margin: 5px;
+	margin-left: 25%;
+}
+
+.bubbleborder{
+	border: 2px solid gray;
+    border-radius: 10px;
+	margin-bottom: 5px;
+	padding: 3px;
+}
+
+.deletebutton{
+	float: right;
+	margin-top: 3px;
+	margin-right: 3px;
+}
+
+.bubble-creation-button{
+	background-color: #f0f8ff;
+}
+
+.config-area-menu{
+	background-color: #e0ffff;
+}
+
+.sent-bubble,
+.received-bubble{
+	background-color: #add8e6;
+	/*#ffcccc;*/
+}
+
+.al-right{
+    float: right;
+}
+
+.al.left{
+    float: left;
+}
+
+.rc-old input[type="text"]{
+    width: 80%;
+}
